@@ -1,0 +1,19 @@
+{
+  "name": "getir.com",
+  "version": "1.0.0",
+  "description": "test app for getir.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivedi/getir.com.git"
+  },
+  "author": "halil ibrahim ivedi <halilibrahimivedi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivedi/getir.com/issues"
+  },
+  "homepage": "https://github.com/ivedi/getir.com#readme"
+}
